@@ -3,7 +3,7 @@
 #include <string>
 #include <vector>
 #include <unordered_set>
-// #include "rapidjson/document.h"
+#include "rapidjson/document.h"
 
 class DocumentParser {
 private:
